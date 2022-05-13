@@ -15,6 +15,7 @@ $ python manage.py runserver
 Enter GNU Bash:
 ```
 $ sudo su - postgres
+```
 
 Enter psql, the command-line interface for PostgreSQL:
 ```
